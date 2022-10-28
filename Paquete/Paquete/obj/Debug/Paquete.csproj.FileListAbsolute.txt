@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\Paquete\Paquete\bin\Debug\Paquete.exe.config
+C:\Users\usuario\source\repos\Paquete\Paquete\bin\Debug\Paquete.exe
+C:\Users\usuario\source\repos\Paquete\Paquete\bin\Debug\Paquete.pdb
+C:\Users\usuario\source\repos\Paquete\Paquete\obj\Debug\Paquete.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Paquete\Paquete\obj\Debug\Paquete.Form1.resources
+C:\Users\usuario\source\repos\Paquete\Paquete\obj\Debug\Paquete.Properties.Resources.resources
+C:\Users\usuario\source\repos\Paquete\Paquete\obj\Debug\Paquete.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Paquete\Paquete\obj\Debug\Paquete.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Paquete\Paquete\obj\Debug\Paquete.exe
+C:\Users\usuario\source\repos\Paquete\Paquete\obj\Debug\Paquete.pdb
