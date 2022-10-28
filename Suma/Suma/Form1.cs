@@ -30,14 +30,25 @@ namespace Suma
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+
             string cadena = textBox1.Text;
             int num1 = Convert.ToInt32(cadena);
+           
             cadena = textBox2.Text;
             int num2 = Convert.ToInt32(cadena);
+
             int res = num1 + num2;
             resultado.Text = res.ToString();
 
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            resultado.Clear();
         }
     }
 }
